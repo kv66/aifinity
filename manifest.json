@@ -1,0 +1,35 @@
+{
+  "name": "Aifinity",
+  "short_name": "Aifinity",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#31564D",
+  "theme_color": "#31564D",
+  "description": "Unlock the power of AI without limits - Aifinity. Enjoy a world of AI services without VPN and complex registration process.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/Icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/Icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
